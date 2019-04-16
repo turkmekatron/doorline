@@ -35,3 +35,5 @@ PHP ile GPIO kullanımı için [http://www.raspberry-pi-geek.com/Archive/2014/07
 Şimdi diğer cihazlardan birinde [http://zek/](http://zek/) yazarak oluşturmuş olduğumuz index.php sitesine ulaşabilir ve video akışını görebiliriz. Ekrandaki &#39;Kapıyı Aç&#39; butonu da basarak ilgili pinin durumu değişir ve kapı sistemini tetikleyerek açılmasını sağlar.
 
 Ayrıca kolaylık olması için Android uygulamalarda ilgili sayfa uygulamaya gömülerek kullanım ergonomisi artırılabilir.
+
+**Youtube Linki:** https://youtu.be/V6CnHMQy02k
